@@ -1,25 +1,11 @@
-## testing123
+## Fernando A. Maule
 
-Hello world!
+Software Engineer @ [TES](https://www.tes.com)
 
-### Markdown
+Hello world from GitHub pages! SSL and caching powered by Cloudflare.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Just
+- Testing
+- Markdown
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+**(magic)**
