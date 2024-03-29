@@ -1,11 +1,9 @@
 ## Fernando A. Maule
 
-Software Engineer @ [TES](https://www.tes.com)
+Software Engineer @ [Infinitas Learning](https://www.infinitaslearning.com/)
 
-Hello world from GitHub pages! SSL and caching powered by Cloudflare.
 
-- Just
-- Testing
-- Markdown
 
-**(magic)**
+This was an old experiment of serving a Github page (with markdown) via Cloudflare (with caching and SSL)
+Maybe will be replaced with somethign else, soon. Maybe never.
+g
